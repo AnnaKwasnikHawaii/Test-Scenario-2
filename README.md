@@ -1,3 +1,9 @@
-# Test-Scenario-2
+Test-Scenario - Logowanie do aplikacji Webex 
 
-Logowanie do Webex 
+Dokument zawiera:
+1. ID
+2. Pisitive path lub Negative path
+3. Summary
+4. Preconditions
+5. Step Actions
+6. Expected Results
